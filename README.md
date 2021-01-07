@@ -1,2 +1,4 @@
 # AdvancedInformaticsExercises
 
+Some random text.
+
