@@ -12,3 +12,6 @@
 ## Week 3 Exercise
 - [Link to repository](https://github.com/Aerin13/AdvancedInformaticsWeek3)
 
+## Week 4 Exercise
+- [Link to repository](https://github.com/Aerin13/AdvancedInformaticsWeek4)
+
