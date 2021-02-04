@@ -15,3 +15,6 @@
 ## Week 4 Exercise
 - [Link to repository](https://github.com/Aerin13/AdvancedInformaticsWeek4)
 
+## Week 5 Exercise
+- [Link to repository](https://github.com/Aerin13/AdvancedInformaticsWeek5)
+
