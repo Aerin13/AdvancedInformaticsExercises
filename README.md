@@ -18,3 +18,6 @@
 ## Week 5 Exercise
 - [Link to repository](https://github.com/Aerin13/AdvancedInformaticsWeek5)
 
+## Project (Weeks 6 - 10)
+- [Link to project repository](https://github.com/Aerin13/AdvancedInformaticsProject)
+
